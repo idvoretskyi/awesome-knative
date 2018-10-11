@@ -1,7 +1,7 @@
-awesome-knative
-===============
+# Awesome-Knative [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated list of the knative-related resources
+- Curated list of the knative-related resources
+- Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
 [KNative](https://github.com/knative/) is the [Kubernetes](https://kubernetes.io)-based platform to build, deploy, and manage modern serverless workloads.
 
